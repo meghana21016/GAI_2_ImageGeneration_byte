@@ -1,0 +1,17 @@
+# Inference Notes
+
+- **Tool:** Google Flow (desktop web interface)
+- **Model reported by author:** Nano Banana 2.1
+- **Generation mode:** Text-to-image through Flow UI
+- **Direct API usage:** None reported
+- **Image files packaged:** 30
+
+## Workflow
+1. Prepared a list of 30 diverse image-generation prompts.
+2. Selected Nano Banana 2.1 in Google Flow.
+3. Submitted prompts and generated images through the Flow interface.
+4. Downloaded 29 images in a ZIP archive and uploaded the floating-island image separately.
+5. Renamed files descriptively for repository organization. Renaming did not intentionally alter image content.
+
+## Reproducibility
+Check the original Flow session for exact prompt wording, model label, aspect ratio, resolution, and any settings if available. No API request/response logs or API keys are included because generation was performed through the Flow UI. Do not claim API usage or an API version for this project.

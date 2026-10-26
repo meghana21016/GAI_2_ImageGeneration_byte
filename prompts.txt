@@ -1,0 +1,95 @@
+AVIP 2026 — Task 2: Image Generation with Pretrained Models
+Tool/model reported by author: Google Flow / Nano Banana 2.1.
+
+ACCURACY NOTE: The text below reconstructs the previously prepared 30-prompt list from its recorded themes. Verify against the original prompt block for exact character-for-character wording before submission. Image filenames are descriptive labels assigned during packaging; confirm each prompt-to-image pairing against Flow history.
+
+PROMPT 01 — Misty Himalayan sunrise
+Create a photorealistic wide landscape of the Himalayas at sunrise, with layered snow-capped peaks, a mist-filled valley, a clear mountain stream in the foreground, soft golden light, natural colors, and fine environmental detail.
+
+PROMPT 02 — Enchanted forest
+Create an enchanted forest at dawn with towering moss-covered trees, a winding path, delicate glowing plants, soft mist, cinematic depth, rich natural textures, and magical atmosphere while retaining believable environmental detail.
+
+PROMPT 03 — Tropical beach
+Create a serene tropical beach at golden hour, with turquoise water, gentle waves, palm trees leaning over pale sand, a warm pastel sky, and a polished travel-photography composition.
+
+PROMPT 04 — Desert under stars
+Create a vast desert beneath a brilliant star-filled Milky Way, with rolling dunes, subtle moonlight, a low horizon, realistic sand textures, and a quiet cinematic night atmosphere.
+
+PROMPT 05 — Indian village
+Create a peaceful Indian village during the monsoon season, with traditional homes, a narrow wet path, lush green fields, tropical plants, soft overcast light, and an authentic rural atmosphere.
+
+PROMPT 06 — Futuristic Indian city
+Create a futuristic Indian city with elegant sustainable skyscrapers, elevated transport, landscaped public spaces, warm daylight, diverse pedestrians, and a detailed yet believable science-fiction architectural style.
+
+PROMPT 07 — Minimalist bedroom
+Create a minimalist bedroom with a low neutral-colored bed, natural wood furniture, linen bedding, indoor plants, large windows, soft morning light, and a calm editorial interior-design aesthetic.
+
+PROMPT 08 — South Indian temple
+Create a detailed ancient South Indian stone temple surrounded by trees, with carved pillars, weathered stone steps, intricate traditional architecture, warm shafts of sunlight, and a respectful historical atmosphere.
+
+PROMPT 09 — Sustainable tiny house
+Create a sustainable tiny house nestled in a forest, featuring a timber exterior, large windows, a green roof, solar panels, natural materials, and soft woodland light, photographed like an architectural magazine feature.
+
+PROMPT 10 — Underwater research lab
+Create a futuristic underwater research laboratory with glass walls, researchers and equipment inside, deep blue ocean water, sunlight beams, marine life outside, and realistic cinematic science-fiction detail.
+
+PROMPT 11 — Bengal tiger
+Create a realistic Bengal tiger walking through a lush Indian forest, with detailed orange-and-black fur, natural dappled light, a softly blurred background, and a wildlife-photography composition.
+
+PROMPT 12 — Red panda
+Create a charming red panda resting on a mossy tree branch in a misty forest, with detailed reddish fur, a natural pose, soft diffused daylight, and a wildlife-photography look.
+
+PROMPT 13 — Hummingbird
+Create a close-up wildlife photograph of a hummingbird hovering beside vivid flowers, showing iridescent feathers, delicate wings, a soft green background, natural sunlight, and crisp fine detail.
+
+PROMPT 14 — Elephant family
+Create a wildlife photograph of an elephant family with adults and a young calf beside a shallow forest stream, lush tropical vegetation, natural behavior, soft daylight, and realistic skin textures.
+
+PROMPT 15 — Bioluminescent jellyfish
+Create an underwater scene of translucent bioluminescent jellyfish drifting through dark blue water, with delicate glowing tentacles, suspended particles, subtle light rays, and an elegant cinematic composition.
+
+PROMPT 16 — Astronaut on Mars
+Create a realistic astronaut exploring the surface of Mars, with a detailed spacesuit, red rocky terrain, distant mountains, a rover in the background, dusty sunlight, and a cinematic wide-angle view.
+
+PROMPT 17 — Floating island
+Create a fantastical floating island above a sea of clouds, featuring ancient stone ruins, small villages, lush greenery, dramatic waterfalls pouring into the clouds, distant mountain peaks, and warm sunrise light.
+
+PROMPT 18 — Robot in rainy city
+Create a cinematic humanoid robot standing on a rain-soaked futuristic city street at night, with reflections on the pavement, glowing signs, atmospheric mist, detailed machinery, and a moody science-fiction palette.
+
+PROMPT 19 — Dragon above castle
+Create an epic fantasy scene of a large dragon flying above an ancient castle in a mountainous landscape, dramatic storm clouds, distant forests, detailed stone architecture, and cinematic natural lighting.
+
+PROMPT 20 — Alien planet
+Create an imaginative alien planet with unusual rock formations, a violet sky, distant rings or celestial arcs, strange vegetation, reflective water, and a richly detailed science-fiction landscape.
+
+PROMPT 21 — Wireless headphones
+Create a premium product photograph of modern wireless headphones on a dark minimal pedestal, with precise materials, subtle studio reflections, dramatic soft lighting, and a clean luxury-tech advertising style.
+
+PROMPT 22 — Perfume bottle
+Create a luxury perfume bottle on a dark wet stone surface, amber liquid glowing inside clear glass, subtle water droplets, a softly blurred natural background, and elegant high-end product photography.
+
+PROMPT 23 — Electric motorcycle
+Create a sleek futuristic electric motorcycle displayed in a dark minimalist studio, with sculptural bodywork, refined metallic surfaces, dramatic rim lighting, realistic tires, and premium automotive advertising photography.
+
+PROMPT 24 — Eco packaging
+Create a clean product photograph of eco-friendly packaging made from recycled cardboard, molded pulp, and reusable natural materials, arranged with a few green leaves on a neutral background, with soft daylight and crisp detail.
+
+PROMPT 25 — Smartwatch
+Create a premium smartwatch product shot with a clean modern design, a detailed display, a refined strap, controlled studio lighting, and a simple dark background suitable for a technology advertisement.
+
+PROMPT 26 — Indian engineering student
+Create a realistic scene of an Indian engineering student studying at a desk with a laptop, notebook, and pen, in a bright room with natural window light, focused expression, and an authentic documentary-photography style.
+
+PROMPT 27 — Chef in restaurant kitchen
+Create a professional chef preparing fresh ingredients in a modern restaurant kitchen, with a white chef jacket, stainless-steel work surfaces, warm practical lighting, and realistic culinary details.
+
+PROMPT 28 — Indian festival street
+Create a lively Indian festival street at evening, decorated with colorful lights and traditional decorations, with families and visitors walking through the market, warm atmospheric lighting, and rich but natural colors.
+
+PROMPT 29 — Fruit still life
+Create an elegant still-life photograph of assorted fresh fruit arranged in a ceramic bowl on a neutral table, including watermelon, citrus, grapes, and other seasonal fruit, with soft studio daylight and realistic textures.
+
+PROMPT 30 — Rainy-day café
+Create a cozy café on a rainy day, with warm interior lights, indoor plants, wooden tables, large windows covered with raindrops, a few customers, and a cinematic contrast between the warm interior and cool street outside.
+
